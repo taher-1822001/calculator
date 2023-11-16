@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taher-1822001/calculator/static/css/main.62d3213f.css",
+    "main.js": "/taher-1822001/calculator/static/js/main.e4d9e8f5.js",
+    "static/js/787.5f81c7f8.chunk.js": "/taher-1822001/calculator/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/taher-1822001/calculator/index.html",
+    "main.62d3213f.css.map": "/taher-1822001/calculator/static/css/main.62d3213f.css.map",
+    "main.e4d9e8f5.js.map": "/taher-1822001/calculator/static/js/main.e4d9e8f5.js.map",
+    "787.5f81c7f8.chunk.js.map": "/taher-1822001/calculator/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d3213f.css",
+    "static/js/main.e4d9e8f5.js"
+  ]
+}
